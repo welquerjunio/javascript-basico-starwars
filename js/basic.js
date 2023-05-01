@@ -1,3 +1,5 @@
+// Arquivo de rascunho para relembrar operações básicas do javascript
+
 console.log('Olá, Javascript!')
 
 var userName = 'Fernando Papito'
