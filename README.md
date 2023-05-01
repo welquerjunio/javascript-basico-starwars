@@ -1,6 +1,4 @@
-# javascript-basico-starwars
-
-# Captura de tecla Pressionada
+# Densenvolvendo uma WebApp 
 
 <h2>Objetivo</h2>
 Obter habilidades básicas em programação em Javascript e familiaridade com HTML e CSS
